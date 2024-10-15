@@ -1,0 +1,12 @@
+.vs/
+*.user
+*.userosscache
+*.suo
+*.cache
+*.[Oo]bj
+*.[Bb]in
+*.[Dd]ebug*/
+*.[Rr]elease*/
+*.[Tt]est[Rr]esult*/
+*.[Bb]uild[Ll]ogs/
+*.[Ii]gnore
